@@ -143,34 +143,6 @@ http://localhost:5500
 4. Summary is converted into a PDF.
 5. User can read the summary or download the generated PDF.
 
----
-
-## 📸 Screenshots
-
-Add screenshots here.
-
-- Home Page
-- Upload Process
-- Generated Summary
-- Downloaded PDF
-
----
-
-## 📈 Future Improvements
-
-- Multiple language support
-- OCR support for scanned PDFs
-- Keyword extraction
-- Flashcard generation
-- Quiz generation
-- Topic-wise summaries
-- User authentication
-- Cloud deployment
-- Dark mode
-- Chat with uploaded notes
-
----
-
 ## 🎯 Use Cases
 
 - Students
@@ -180,34 +152,6 @@ Add screenshots here.
 - Professionals
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a feature branch
-
-```
-git checkout -b feature-name
-```
-
-3. Commit your changes
-
-```
-git commit -m "Added new feature"
-```
-
-4. Push
-
-```
-git push origin feature-name
-```
-
-5. Open a Pull Request
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
@@ -216,8 +160,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Parth Sharma**
+**Parth Sharma and team**
 
 B.Tech Artificial Intelligence & Machine Learning
-
-GitHub: https://github.com/parthattrish
