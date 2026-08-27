@@ -220,6 +220,4 @@ This project is licensed under the MIT License.
 
 B.Tech Artificial Intelligence & Machine Learning
 
-Ajay Kumar Garg Engineering College
-
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/parthattrish
